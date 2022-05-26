@@ -1,11 +1,11 @@
 ![About Me](readme_header.png)
 
-### 👋 Hello, people!
+## 👋 Hello, people!
 
-This is Pyae. I'm a 2022 CS graduate concentrated on software and computer network engineering. I consider myself an active listener, a quick learner, and a visionary employee who is enthusiastic to develop along with others. 
+### This is Pyae. I'm a 2022 CS graduate concentrated on software and computer network engineering. I consider myself an active listener, a quick learner, and a visionary employee who is enthusiastic to develop along with others. 
 
 
-### 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 - Social Network : [LinkedIn](https://www.linkedin.com/in/pyaephyomaung/)
 - E-mail : pphyo.m@gmail.com
