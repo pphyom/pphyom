@@ -2,7 +2,7 @@
 
 ### 👋 Hello, people!
 
-- This is Pyae. I'm a 2022 CS graduate concentrated on software and computer network engineering. I consider myself an active listener, a quick learner, and a visionary employee who is enthusiastic to develop along with others. 
+This is Pyae. I'm a 2022 CS graduate concentrated on software and computer network engineering. I consider myself an active listener, a quick learner, and a visionary employee who is enthusiastic to develop along with others. 
 
 
 ### 📫 How to reach me: ...
@@ -10,7 +10,6 @@
 - Social Network : [LinkedIn](https://www.linkedin.com/in/pyaephyomaung/)
 - E-mail : pphyo.m@gmail.com
 - Resume : [PDF](https://mega.nz/file/H0xlEQIK#K_GWbkM6gE_yKqAlvFASF2A0uDrpzsV5gJewzvLfqmQ) | [DOC](https://mega.nz/file/X4QkGBzS#NQiXS-NLfpelpirsurU0lthfD94DxX25xO0W6QlDC9I)
-
     
 <!--
 **pphyom/pphyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
