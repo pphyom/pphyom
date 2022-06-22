@@ -2,7 +2,7 @@
 
 ## 👋 Hello, people!
 
-This is Pyae. I'm a 2022 CS graduate concentrated on software and computer network engineering. I consider myself an active listener, a quick learner, and a visionary employee who is enthusiastic to develop along with the organization.
+This is Pyae, a recent 2022 CS graduate looking for an active position such as software engineer and IT engineer. Familiar with a variety of programming languages such as C/C++, Java, Bash/Shell scripting, Python, and networking protocols and models (OSI, TCP/IP). Also familiar with languages in web development such as HTML and CSS. Have a strong comprehension of OOP and TDD, and a strong ability to pick up new languages quickly.
 
 
 ## 📫 How to reach me: ...
