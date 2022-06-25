@@ -2,7 +2,7 @@
 
 ## 👋 Hello, people!
 
-This is Pyae, a recent 2022 CS graduate concentrated on software and IT engineering. Familiar with a variety of programming languages such as C/C++, Java, Bash/Shell scripting, Python, and networking protocols and models (OSI, TCP/IP). Also familiar with languages in web development such as HTML and CSS. Have a strong comprehension of OOP and TDD, and a strong ability to pick up new languages quickly.
+A motivated computer science graduate from the California State University, East Bay with a cumulative GPA of 3.29. Familiar with various programming languages such as C/C++, Java, Bash/Shell scripting, Python, and networking protocols and models (OSI, TCP/IP), and HTML5 and CSS3 in web development. Have a strong comprehension of OOP and TDD, and a solid ability to pick up new languages quickly.
 
 
 ## 📫 How to reach me: ...
