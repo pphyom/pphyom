@@ -9,7 +9,7 @@ This is Pyae, a recent 2022 CS graduate concentrated on software and IT engineer
 
 - Social Network : [LinkedIn](https://www.linkedin.com/in/pyaephyomaung/)
 - E-mail : pphyo.m@gmail.com
-- Resume : [PDF](https://mega.nz/file/6wpiwTaI#M03yufK0GSxkcV9VR0U3EDHt10FeX4gOW-YjlTO4J74) | [DOC](https://mega.nz/file/DsxGCBSA#Z4pksZIixRMj7R8mlm8iqSRSZ4nVxgixhzJ-ovNrw5A)
+- Resume : [PDF](https://mega.nz/file/DxhQUZQQ#qb3yfkqyrMyd5fpsGMoG9kX_KPbjGwnmF_HWYXI8MxY) | [DOC](https://mega.nz/file/ixRQzQYB#q8UQC2sgrCJuYbahyBqduA_SyJxDSl_FL_MsyyACdfY)
     
 <!--
 **pphyom/pphyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
