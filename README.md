@@ -9,7 +9,7 @@ A motivated computer science graduate from the California State University, East
 
 - Social Network : [LinkedIn](https://www.linkedin.com/in/pyaephyomaung/)
 - E-mail : pphyo.m@gmail.com
-- Resume : [PDF](https://mega.nz/file/GlpEXIwT#y8KErXpHC_BmJoBxscgpfrc3GmiqchTtEfBAX5PIhtw) | [DOC](https://mega.nz/file/HgpklLjD#nwxRnJgvzPM5xwr6cMkYzpRPXLsuGuDp3rTl1XxJ09I)
+- Resume : [PDF](https://mega.nz/file/n95zlLAZ#WMHmmvAk_3-f5vPNGyeZ39eJGViif7KsypvEaSnkOEo) | [DOC](https://mega.nz/file/K1JxySTQ#hGFUESbHbxyKdaNjfatJ23wzGzstk_rqs_flUGVZsCA)
     
 <!--
 **pphyom/pphyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
