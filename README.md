@@ -1,4 +1,4 @@
-![About Me](readme_header.png)
+<!-- ![About Me](readme_header.png) -->
 
 ## 👋 Hello, people!
 
