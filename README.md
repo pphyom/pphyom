@@ -2,7 +2,19 @@
 
 ## 👋 Hello, people!
 
-A motivated computer science graduate from the California State University, East Bay with a cumulative GPA of 3.29. Familiar with various programming languages such as C/C++, Java, Bash/Shell scripting, Python, and networking protocols and models (OSI, TCP/IP), and HTML5 and CSS3 in web development. Have a strong comprehension of OOP and TDD, and a solid ability to pick up new languages quickly.
+As a Computer Science graduate and Production Engineer at Supermicro, I bring a unique blend of technical expertise and hands-on engineering experience to the field of computer manufacturing. My academic background has provided me with a foundation in software development, algorithms, system design, troubleshooting, and problem-solving, which I have successfully applied to optimize production processes and enhance product quality in my current role.
+
+### Academic Background
+
+I graduated with a Bachelor’s degree in Computer Science from California State University, East Bay, where I honed my skills in programming, data structures, computer networking, problem-solving, and critical thinking. My capstone project involved developing a data visualization and summarization for manufacturing daily workflow, which sparked my interest in integrating software solutions.
+
+### Professional Experience
+
+At Supermicro, I serve as a Production Engineer, where I focus on streamlining manufacturing workflows, implementing automation solutions, and ensuring the highest standard of product quality. I work closely with cross-functional teams, including R&D, quality assurance, and supply chain management, to drive continuous improvement initiatives.
+
+### Passion and Vision
+
+I am passionate about leveraging technology to solve complex problems and improve manufacturing efficiency. My goal is to continue growing as an engineer, driving innovation in the production processes, and contributing to the advancement of the computer manufacturing industry.
 
 
 ## 📫 How to reach me: ...
