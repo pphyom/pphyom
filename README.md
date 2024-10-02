@@ -21,7 +21,7 @@ I am passionate about leveraging technology to solve complex problems and improv
 
 - Social Network: [LinkedIn](https://www.linkedin.com/in/pyaephyomaung/)
 - E-mail: pphyo.m@gmail.com
-- Resume: [PDF](https://drive.google.com/file/d/17FFeWki6SEmCLLnTuvbjkVIp8ioOz1YV/view?usp=drive_link)
+- Resume: [PDF](https://drive.google.com/file/d/1poeVpBQfEKZHTjR6hr0SlW1GbyihRdhN/view?usp=drive_link)
     
 <!--
 **pphyom/pphyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
