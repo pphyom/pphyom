@@ -10,7 +10,7 @@ I hold a Bachelor’s degree in Computer Science, where I developed strong skill
 
 ### Professional Experience
 
-During my time at Supermicro, I worked as a Production Engineer, where I focused on optimizing manufacturing processes, deploying automation solutions, and upholding high standards of quality control. I collaborated with cross-functional teams—including *R&D*, *QA*, and *supply chain*—to support continuous improvement efforts across the production pipeline.
+During my time at Supermicro, I worked as a Production Engineer, where I focused on optimizing manufacturing processes, deploying automation solutions, and upholding high standards of quality control. I collaborated with cross-functional teams—including **R&D**, **QA**, and **supply chain**—to support continuous improvement efforts across the production pipeline.
 
 For my capstone project, I developed a web-based data visualization and management tool tailored for manufacturing workflows. This application was designed to:
 - Summarize daily test data from AI-optimized servers,
