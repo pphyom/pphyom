@@ -14,8 +14,8 @@ At Supermicro, I served as a Production Engineer, where I focused on streamlinin
 
 My capstone project involved developing a data visualization and summarization web app that can be used 
 - to summarize the daily test data of AI-driven servers,
-- to upgrade/downgrade software such as BIOS, BMC, and other firmware,
-- to run and debug various utility tools such as IPMI tools and etc.., to control computer servers remotely in one place
+- to upgrade/downgrade firmware such as BIOS, BMC, and drivers,
+- to run and debug various third-party utility tools such as IPMI tools etc.., to control computer servers remotely in one place
 for manufacturing daily workflow, which sparked my interest in integrating software solutions.
 
 
