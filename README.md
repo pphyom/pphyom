@@ -2,26 +2,26 @@
 
 ## 👋 Hello, people!
 
-As a Computer Science graduate and a former Production Engineer at Supermicro, I bring a unique blend of technical expertise and hands-on engineering experience to the field of computer manufacturing. My academic background has provided me with a foundation in software development, algorithms, system design, troubleshooting, and problem-solving, which I have successfully applied to optimize production processes and enhance product quality in my previous role.
+As a Computer Science graduate with hands-on experience as a Production Engineer at Supermicro, I offer a unique intersection of software development knowledge and real-world engineering expertise. My academic foundation in algorithms, system design, and problem-solving has enabled me to drive improvements in manufacturing efficiency and product quality in a fast-paced tech environment.
 
 ### Academic Background
 
-I graduated with a Bachelor’s degree in Computer Science that I honed my skills in programming, data structures, computer networking, problem-solving, and critical thinking.
+I hold a Bachelor’s degree in Computer Science, where I developed strong skills in programming, data structures, networking, and analytical thinking. This education laid the groundwork for my ability to design and implement practical software solutions to real-world engineering challenges.
 
 ### Professional Experience
 
-At Supermicro, I served as a Production Engineer, where I focused on streamlining manufacturing workflows, implementing automation solutions, and ensuring the highest standard of product quality. I worked closely with cross-functional teams, including R&D, quality assurance, and supply chain management, to drive continuous improvement initiatives.
+During my time at Supermicro, I worked as a Production Engineer, where I focused on optimizing manufacturing processes, deploying automation solutions, and upholding high standards of quality control. I collaborated with cross-functional teams—including *R&D*, *QA*, and *supply chain*—to support continuous improvement efforts across the production pipeline.
 
-My capstone project involved developing a data visualization and summarization web app that can be used 
-- to summarize the daily test data of AI-driven servers,
-- to upgrade/downgrade firmware such as BIOS, BMC, and drivers,
-- to run and debug various third-party utility tools such as IPMI tools etc.., to control computer servers remotely in one place
-for manufacturing daily workflow, which sparked my interest in integrating software solutions.
+For my capstone project, I developed a web-based data visualization and management tool tailored for manufacturing workflows. This application was designed to:
+- Summarize daily test data from AI-optimized servers,
+- Manage firmware upgrades/downgrades for BIOS, BMC, and drivers,
+- Run and debug third-party utilities (e.g., IPMI tools) for remote server control.
+This project sparked a deep interest in building software that bridges the gap between engineering operations and digital solutions.
 
 
 ### Passion and Vision
 
-I am passionate about leveraging technology to solve complex problems and to improve workplace's efficiency. My goal is to continue growing as a SDE, driving innovation in the production processes, and contributing to the advancement of the computer industry.
+I am passionate about using technology to solve complex, real-world problems and enhance operational efficiency. As I continue to grow as a Software Development Engineer, my goal is to contribute to innovation in production systems and help shape the future of the tech industry.
 
 
 ## 📫 How to reach me: ...
