@@ -2,7 +2,7 @@
 
 ## 👋 Hello, people!
 
-As a Computer Science graduate with hands-on experience as a Production Engineer at Supermicro, I offer a unique intersection of software development knowledge and real-world engineering expertise. My academic foundation in algorithms, system design, and problem-solving has enabled me to drive improvements in manufacturing efficiency and product quality in a fast-paced tech environment.
+As a Computer Science graduate with hands-on experience as a former Production Engineer at Supermicro, I offer a unique intersection of software development knowledge and real-world engineering expertise. My academic foundation in algorithms, system design, and problem-solving has enabled me to drive improvements in manufacturing efficiency and product quality in a fast-paced tech environment.
 
 ### Academic Background
 
@@ -10,12 +10,13 @@ I hold a Bachelor’s degree in Computer Science, where I developed strong skill
 
 ### Professional Experience
 
-During my time at Supermicro, I worked as a Production Engineer, where I mentored technicians while focusing on optimizing manufacturing processes, deploying automation solutions, and upholding high standards of quality control. I collaborated with cross-functional teams—including **R&D**, **QA**, and **supply chain**—to support continuous improvement efforts across the production pipeline.
+During my time at Supermicro, I worked as a Production Engineer, where I mentored technicians while focusing on optimizing manufacturing processes, deploying automation solutions, writing standard operating procedures, and upholding high standards of quality control. I collaborated with cross-functional teams—including **R&D**, **QA**, and **supply chain**—to support continuous improvement efforts across the production pipeline.
 
 For my capstone project, I developed a web-based data visualization and management tool tailored for manufacturing workflows. This application was designed to:
-- Summarize daily test log results for AI-optimized servers,
-- Manage firmware upgrades/downgrades for BIOS, BMC, and drivers,
-- Remotely debug and run commands from integrated third-party utilities (e.g., IPMI tools).
+- Summarized daily test data from AI-optimized servers,
+- Managed firmware upgrades/downgrades such as BIOS, BMC, and drivers,
+- Integrated third-party utilities (e.g., IPMI tools) to debug and manage remote servers.
+
 This project sparked a deep interest in building software that bridges the gap between engineering operations and digital solutions.
 
 
