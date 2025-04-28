@@ -13,7 +13,7 @@ I hold a Bachelor’s degree in Computer Science, where I developed strong skill
 During my time at Supermicro, I worked as a Production Engineer, where I mentored technicians while focusing on optimizing manufacturing processes, deploying automation solutions, writing standard operating procedures, and upholding high standards of quality control. I collaborated with cross-functional teams—including **R&D**, **QA**, and **supply chain**—to support continuous improvement efforts across the production pipeline.
 
 For my capstone project, I developed a web-based data visualization and management tool tailored for manufacturing workflows. This application was designed to:
-- Summarized daily test data from AI-optimized servers,
+- Summarized daily test log status/update for AI-optimized servers,
 - Managed firmware upgrades/downgrades such as BIOS, BMC, and drivers,
 - Integrated third-party utilities (e.g., IPMI tools) to debug and manage remote servers.
 
