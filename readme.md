@@ -1,8 +1,8 @@
-<!-- ![About Me](readme_header.png)
+<!-- ![About Me](readme_header.png)-->
 
-## 👋 Hello, people!
+## 👋 Hello, world!
 
-As a Computer Science graduate with hands-on experience as a former Production Engineer at Supermicro, I offer a unique intersection of software development knowledge and real-world engineering expertise. My academic foundation in algorithms, system design, and problem-solving has enabled me to drive improvements in manufacturing efficiency and product quality in a fast-paced tech environment.
+A Computer Science graduate with hands-on experience as a former Production (Assembly, Test, Debug) Engineer at Supermicro. I offer a unique intersection of software development knowledge and real-world engineering expertise. My academic foundation in algorithms, system design, and problem-solving has enabled me to drive improvements in manufacturing efficiency and product quality in a fast-paced tech environment.
 
 ### Academic Background
 
@@ -31,7 +31,6 @@ I am passionate about using technology to solve complex, real-world problems and
 - E-mail: pphyo.m@gmail.com
 - Resume: [PDF](https://drive.google.com/file/d/1oyZnZYRjQrhmcy_peaMerkfHAe8zc8Vw/view?usp=sharing)
 
--->
 <!--
 **pphyom/pphyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
